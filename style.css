@@ -22,6 +22,7 @@
 }
 .navbar-register{
     padding-left: 20.51px;
+    margin-right: 15px;
     padding-right: 20.51px;
     padding-top: 7.69px;
     padding-bottom: 7.69px;
@@ -53,12 +54,10 @@
 }
 .features{
     margin-left: 350px;
-    text-decoration: none;
     margin-top: -10px;
     position: absolute;
     text-align: center;
-    color: #aec3b0;
-    font-size: 16px;
+    font-size: 18px;
     font-family: Poppins;
     font-weight: 600;
     text-overflow: clip;
@@ -154,7 +153,7 @@
 }
 .data-2{
     width: 51.78px;
-    gap: 70px;
+    gap: 45px;
     display: flex;
     top: 30px;
     position: absolute;
@@ -188,6 +187,7 @@
     word-wrap: break-word;
 }
 .sponsors{
+    display: flex;
     width: 128.27px; 
     height: 23.74px
 }
@@ -210,20 +210,20 @@
     gap: 120px;
 }
 .card-1{
-    height: 250px;
-    width: 300px;
+    height: 350px;
+    width: 250px;
     background: #EFF6E0;
     border-radius: 15px;
 }
 .card-2{
-    height: 150px;
-    width: 300px;
+    height: 350px;
+    width: 250px;
     background: linear-gradient(180deg, #124559 0%, #01161E 100%, #04789D 100%);
     border-radius: 15px;
 }
 .card-3{
-    height: 150px;
-    width: 300px;
+    height: 350px;
+    width: 250px;
     background: #EFF6E0;
     border-radius: 15px;
 }
